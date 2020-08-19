@@ -1,2 +1,2 @@
 # pythonLearning-
-Repo to learn python
+Repo dedicated to python learning. 
